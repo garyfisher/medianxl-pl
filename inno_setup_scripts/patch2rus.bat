@@ -1,1 +1,0 @@
-MpqLangChanger -l=RUS patch_d2.mpq

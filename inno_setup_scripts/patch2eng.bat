@@ -1,1 +1,0 @@
-MpqLangChanger -l=ENG patch_d2.mpq
