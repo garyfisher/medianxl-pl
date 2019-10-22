@@ -9186,7 +9186,7 @@
 "ModitemExtraAllPets"	"do Maksymalnej Ilości Sług"
 "ItemmodAllMaxRes"	"Maksymalne Odporności na Żywioły"
 "ModitemPaganB"	"do Wszystkich Umiejętności po zjedzeniu Jabłka"
-"ModitemRunemaster"	"do Obrony od umieszczonej Runy w ubranych przedmiotach"
+"ModitemRunemaster"	"to Runemaster Defense Bonus"
 "ModitemMoreBarbs"	"do Ilości Sług Barbarzyńcy"
 "ModitemExtraPets"	"do Ilości Sług Nekromanty"
 "ModitemdamPMsk"	"do Obrażeń Czarów Magicznych/Fizycznych"
